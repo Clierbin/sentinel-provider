@@ -46,9 +46,7 @@ warm up (预热) ->dubbo源码分析的时候, (负载均衡算法里面涉及�
 flowRule.setControlBehavior(RuleConstant,CONTROL_BEHAVIOR_DEFAULT);
 
 集群限流实现原理图
-
-![1565660391376](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1565660391376.png)
-
+![1565660391376](image/1565660315380.png)
 
 
 csp.sentinel.log.use.pid	 boolean
@@ -284,7 +282,7 @@ public class DataSourcesInitFunc  implements InitFunc{
 
 ### 九,在nacos页面添加配置
 
-![1565774342373](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1565774342373.png)
+![1565774342373](image/1565774342373.png)
 
 除了dataid(由namespace和FLOW_POSTFIX组成)  groupId
 
