@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sentinel-api" />
         <module name="sentinel-app" />
         <module name="sentinel-service" />
-        <module name="sentinel-api" />
       </profile>
     </annotationProcessing>
   </component>
