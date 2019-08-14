@@ -344,7 +344,7 @@ jvm 参数
 -Dcsp.sentinel.dashboard.server=192.168.5.179:8888 -Dproject.name=App-Zb
 ```
 
-意义:sentinel.dashboard.server的ip:port   project.nname 名称  
+意义:sentinel.dashboard.server的ip:port   project.nname 名称   
 
 
 
